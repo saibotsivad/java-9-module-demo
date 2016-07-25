@@ -5,7 +5,7 @@ import com.tobiaslabs.servicec.ServiceC;
 
 public class Client {
    public static void main(String[] args) {
-     System.out.println("Service B: " + ServiceB.msg());
-     System.out.println("Service C: " + ServiceC.msg());
+     System.out.println("Calling B: " + ServiceB.msg());
+     System.out.println("Calling C: " + ServiceC.msg());
    }
 }

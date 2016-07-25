@@ -1,3 +1,5 @@
 #!/bin/sh
 
-javac -modulesourcepath src -d mods $(find src -name '*.java')
+rm -rf mods
+
+javac -modulesourcepath src -d mods $(find src -name 'module-info.java')
