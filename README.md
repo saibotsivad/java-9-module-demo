@@ -21,7 +21,7 @@ Failure to build, package, or run may be expected.
 
 For more details, check out this article:
 
-http://tobiaslabs.com/
+http://tobiaslabs.com/articles/java-9-modules
 
 ## License
 
