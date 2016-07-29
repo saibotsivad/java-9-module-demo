@@ -10,18 +10,17 @@ Inside each folder, execute the following commands to build and run:
 ./run.sh
 ```
 
-If the execution was completely successful, the output will be:
+If the execution was completely successful, the output will look like:
 
 ```
 Service B: Module D:1.0
 Service C: Module D:2.0
 ```
 
-Failure to build, package, or run may be expected.
+**Note:** Failure to build, package, or run may be expected. For more
+details, check out this article:
 
-For more details, check out this article:
-
-http://tobiaslabs.com/articles/java-9-modules
+http://tobiaslabs.com/article/java-9-modules/
 
 ## License
 
